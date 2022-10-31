@@ -1,2 +1,2 @@
 # Equlibrum
-Playgrounds
+Playground
